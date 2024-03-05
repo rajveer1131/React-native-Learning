@@ -123,7 +123,8 @@ const style=StyleSheet.create({
         // borderRadius:,
         borderStartEndRadius:40,
         padding:20,
-        // margin:,
+        color:"white",
+        marginBottom:20,
         fontSize:40,
     }
 })
